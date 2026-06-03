@@ -32,7 +32,7 @@
         "url": "https://github.com/emilysilcock/text-classification.git",
         "path": "plugin"
       },
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "LLM-driven text classification: apply a category set to a corpus via Claude or GPT with prompt caching, structured outputs, and async or batch execution. Interactive labelling + prompt tuning included. Usable standalone or as the phase-2 partner to agentic-clustering.",
       "author": {
         "name": "Emily Silcock and Simon Löwe",
