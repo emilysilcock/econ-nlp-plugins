@@ -14,7 +14,7 @@
         "url": "https://github.com/emilysilcock/agentic-clustering.git",
         "path": "plugin"
       },
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "Iterative agentic discovery of natural clusters in text corpora using a proposer/synthesizer/auditor/investigator/critic loop. Phase-2 classification is handled by the text-classification plugin, which this plugin declares as a dependency.",
       "author": {
         "name": "Emily Silcock and Simon Löwe",
